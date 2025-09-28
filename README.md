@@ -24,7 +24,7 @@ Esta implementação resolve o **Problema do Carteiro Chinês** (Chinese Postman
 
 1. **`build_adjacency_list(edges_list)`**
    - Constrói lista de adjacência a partir de lista de arestas
-   - Entrada: Lista de tuplas `(origem, destino, rótulo)`
+   - Entrada: Lista de tuplas `(origem, destino, nome da aresta)`
    - Saída: Dicionário com lista de adjacência
 
 2. **`dijkstra(adjacency_list, source_vertex)`**
