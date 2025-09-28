@@ -1,5 +1,10 @@
 # Chinese Postman Problem
 
+## Autores
+
+- Ian Sandes Alves
+- José Wilson Martins Filho
+
 ## Descrição
 
 Esta implementação resolve o **Problema do Carteiro Chinês** (Chinese Postman Problem), um problema de teoria dos grafos que busca encontrar o menor caminho fechado que visita todas as arestas de um grafo pelo menos uma vez.
