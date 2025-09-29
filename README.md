@@ -77,8 +77,8 @@ A função retorna um dicionário com:
 
 ## Complexidade
 
-- **Tempo**: O(V³ + V²2^V), onde V é o número de vértices de grau ímpar
-- **Espaço**: O(V² + 2^V) para armazenar distâncias e cache de programação dinâmica
+- **Tempo**: O(V³ + E·V + 2^k · k²), onde k é o número de vértices de grau ímpar
+- **Espaço**: O(V² + E + 2^k) para armazenar distâncias e cache de programação dinâmica
 
 ## Dependências
 
