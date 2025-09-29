@@ -77,8 +77,6 @@ A função retorna um dicionário com:
 
 - **`total_cost`**: Custo total do tour (número de arestas atravessadas)
 - **`tour`**: Sequência de vértices do tour completo
-- **`odd_vertices`**: Lista de vértices com grau ímpar (se houver)
-- **`paired`**: Pares de vértices ímpares emparelhados (se houver)
 
 ## Complexidade
 
