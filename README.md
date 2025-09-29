@@ -1,5 +1,10 @@
 # Chinese Postman Problem
 
+## Links Importantes
+
+- [Apresentação do Carteiro Chinês por Wilson e Ian](https://www.youtube.com/watch?v=NWDg1k07rX4)
+- [Slide da Apresentação do Carteiro Chinês](https://docs.google.com/presentation/d/1QvCC7OJI2UqHbjNPdNmWlFaHlQXK0JwV7SlUYAApEPc/edit?usp=sharing)
+
 ## Autores
 
 - Ian Sandes Alves
